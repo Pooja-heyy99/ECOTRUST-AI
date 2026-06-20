@@ -1,0 +1,10 @@
+{
+  "id": "urn:uuid:5512b9a1",
+  "issuer": "did:t3n:verra",
+  "credentialSubject": {
+    "id": "PROJ-AMAZON-091"
+  },
+  "proof": {
+    "proofValue": "z3h7A9gXmK8f"
+  }
+}

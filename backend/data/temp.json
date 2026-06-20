@@ -1,0 +1,7 @@
+{
+  "id": "failed",
+  "issuer": "did:t3n:untrusted",
+  "credentialSubject": {
+    "id": "PROJ-GREENWASH-002"
+  }
+}
